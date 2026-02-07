@@ -1,0 +1,157 @@
+[
+  {
+    "Company": "Adobe",
+    "Stipend": "100000",
+    "TotalOffers": "15"
+  },
+  {
+    "Company": "Amazon",
+    "Stipend": "60000",
+    "TotalOffers": "7"
+  },
+  {
+    "Company": "American Express",
+    "Stipend": "70000",
+    "TotalOffers": "7"
+  },
+  {
+    "Company": "Baker Hughes",
+    "Stipend": "25000",
+    "TotalOffers": "1"
+  },
+  {
+    "Company": "Becton Dickinson",
+    "Stipend": "20000",
+    "TotalOffers": "2"
+  },
+  {
+    "Company": "BNY Mellon",
+    "Stipend": "60000",
+    "TotalOffers": "1"
+  },
+  {
+    "Company": "Citrix",
+    "Stipend": "50000",
+    "TotalOffers": "5"
+  },
+  {
+    "Company": "Cognizant",
+    "Stipend": "ND",
+    "TotalOffers": "12"
+  },
+  {
+    "Company": "Deutsche Bank",
+    "Stipend": "75000",
+    "TotalOffers": "4"
+  },
+  {
+    "Company": "Expedia",
+    "Stipend": "35000",
+    "TotalOffers": "14"
+  },
+  {
+    "Company": "Facebook",
+    "Stipend": "ND",
+    "TotalOffers": "2"
+  },
+  {
+    "Company": "Fractal Analytics",
+    "Stipend": "30000",
+    "TotalOffers": "1"
+  },
+  {
+    "Company": "GE",
+    "Stipend": "25000",
+    "TotalOffers": "1"
+  },
+  {
+    "Company": "GE Digital",
+    "Stipend": "30000",
+    "TotalOffers": "2"
+  },
+  {
+    "Company": "Goldman Sachs",
+    "Stipend": "75000",
+    "TotalOffers": "2"
+  },
+  {
+    "Company": "Google",
+    "Stipend": "98000",
+    "TotalOffers": "4"
+  },
+  {
+    "Company": "Intuit",
+    "Stipend": "60000",
+    "TotalOffers": "5"
+  },
+  {
+    "Company": "MedTourEasy",
+    "Stipend": "ND",
+    "TotalOffers": "1"
+  },
+  {
+    "Company": "Microsoft",
+    "Stipend": "80000",
+    "TotalOffers": "40"
+  },
+  {
+    "Company": "Morgan Stanley",
+    "Stipend": "87000",
+    "TotalOffers": "3"
+  },
+  {
+    "Company": "Optum",
+    "Stipend": "35000",
+    "TotalOffers": "5"
+  },
+  {
+    "Company": "Oracle",
+    "Stipend": "30000",
+    "TotalOffers": "5"
+  },
+  {
+    "Company": "Phone Pe",
+    "Stipend": "50000",
+    "TotalOffers": "3"
+  },
+  {
+    "Company": "SAP Labs",
+    "Stipend": "35000",
+    "TotalOffers": "5"
+  },
+  {
+    "Company": "Schneider Electric",
+    "Stipend": "25000",
+    "TotalOffers": "4"
+  },
+  {
+    "Company": "TVS",
+    "Stipend": "15000",
+    "TotalOffers": "1"
+  },
+  {
+    "Company": "Uber",
+    "Stipend": "160000",
+    "TotalOffers": "2"
+  },
+  {
+    "Company": "Visa",
+    "Stipend": "60000",
+    "TotalOffers": "1"
+  },
+  {
+    "Company": "Walmart",
+    "Stipend": "80000",
+    "TotalOffers": "13"
+  },
+  {
+    "Company": "Wells Fargo",
+    "Stipend": "80000",
+    "TotalOffers": "4"
+  },
+  {
+    "Company": "Western Digital",
+    "Stipend": "35000",
+    "TotalOffers": "4"
+  }
+]

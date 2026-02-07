@@ -1,0 +1,207 @@
+[
+  {
+    "Company": "Adobe",
+    "Stipend": "100000",
+    "TotalOffers": "8"
+  },
+  {
+    "Company": "Amazon ( AWS: Prosery)",
+    "Stipend": "70000",
+    "TotalOffers": "8"
+  },
+  {
+    "Company": "American Express",
+    "Stipend": "85000",
+    "TotalOffers": "13"
+  },
+  {
+    "Company": "Arista Network",
+    "Stipend": "65000",
+    "TotalOffers": "1"
+  },
+  {
+    "Company": "Atlassian",
+    "Stipend": "130000",
+    "TotalOffers": "2"
+  },
+  {
+    "Company": "Barclays",
+    "Stipend": "75000",
+    "TotalOffers": "13"
+  },
+  {
+    "Company": "Becton Dickinson",
+    "Stipend": "20000",
+    "TotalOffers": "5"
+  },
+  {
+    "Company": "BNY Mellon",
+    "Stipend": "75000",
+    "TotalOffers": "3"
+  },
+  {
+    "Company": "Capgemini",
+    "Stipend": "22000",
+    "TotalOffers": "1"
+  },
+  {
+    "Company": "Citi Bank",
+    "Stipend": "75000",
+    "TotalOffers": "15"
+  },
+  {
+    "Company": "Deutsche Bank",
+    "Stipend": "75000",
+    "TotalOffers": "11"
+  },
+  {
+    "Company": "Disney + Hotstar",
+    "Stipend": "100000",
+    "TotalOffers": "1"
+  },
+  {
+    "Company": "Expedia",
+    "Stipend": "35000",
+    "TotalOffers": "22"
+  },
+  {
+    "Company": "Fidelity",
+    "Stipend": "24000",
+    "TotalOffers": "5"
+  },
+  {
+    "Company": "Flipkart",
+    "Stipend": "100000",
+    "TotalOffers": "1"
+  },
+  {
+    "Company": "Goldman Sachs",
+    "Stipend": "100000",
+    "TotalOffers": "10"
+  },
+  {
+    "Company": "Google",
+    "Stipend": "114167",
+    "TotalOffers": "13"
+  },
+  {
+    "Company": "Intuit",
+    "Stipend": "80000",
+    "TotalOffers": "1"
+  },
+  {
+    "Company": "JPMC",
+    "Stipend": "70000",
+    "TotalOffers": "36"
+  },
+  {
+    "Company": "Loadshare Networks",
+    "Stipend": "50000",
+    "TotalOffers": "5"
+  },
+  {
+    "Company": "MasterCard",
+    "Stipend": "75000",
+    "TotalOffers": "4"
+  },
+  {
+    "Company": "Mathworks",
+    "Stipend": "55000",
+    "TotalOffers": "1"
+  },
+  {
+    "Company": "Microsoft",
+    "Stipend": "125000",
+    "TotalOffers": "96"
+  },
+  {
+    "Company": "Morgan Stanley",
+    "Stipend": "87000",
+    "TotalOffers": "7"
+  },
+  {
+    "Company": "MotorQ",
+    "Stipend": "160000",
+    "TotalOffers": "2"
+  },
+  {
+    "Company": "Notion Labs",
+    "Stipend": "125000",
+    "TotalOffers": "1"
+  },
+  {
+    "Company": "Oracle",
+    "Stipend": "50000",
+    "TotalOffers": "11"
+  },
+  {
+    "Company": "Providence",
+    "Stipend": "40000",
+    "TotalOffers": "3"
+  },
+  {
+    "Company": "Salesforce",
+    "Stipend": "125000",
+    "TotalOffers": "11"
+  },
+  {
+    "Company": "Samsung",
+    "Stipend": "50000",
+    "TotalOffers": "9"
+  },
+  {
+    "Company": "Schneider Electric",
+    "Stipend": "25000",
+    "TotalOffers": "1"
+  },
+  {
+    "Company": "ServiceNow",
+    "Stipend": "70000",
+    "TotalOffers": "5"
+  },
+  {
+    "Company": "Silicon Labs",
+    "Stipend": "35000",
+    "TotalOffers": "4"
+  },
+  {
+    "Company": "Titan",
+    "Stipend": "15000",
+    "TotalOffers": "5"
+  },
+  {
+    "Company": "Twilio",
+    "Stipend": "116700",
+    "TotalOffers": "2"
+  },
+  {
+    "Company": "Uber",
+    "Stipend": "160000",
+    "TotalOffers": "7"
+  },
+  {
+    "Company": "Urban Company",
+    "Stipend": "50000",
+    "TotalOffers": "8"
+  },
+  {
+    "Company": "Visa",
+    "Stipend": "65000",
+    "TotalOffers": "8"
+  },
+  {
+    "Company": "Wells Fargo",
+    "Stipend": "90000",
+    "TotalOffers": "8"
+  },
+  {
+    "Company": "Western Digital",
+    "Stipend": "35000",
+    "TotalOffers": "2"
+  },
+  {
+    "Company": "Wooger",
+    "Stipend": "50000",
+    "TotalOffers": "4"
+  }
+]

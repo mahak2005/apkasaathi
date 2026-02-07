@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #FDF5E6;
+  /* Old Lace - Visibly Warm Beige */
+  --color-foreground: #4A4A4A;
+  /* Softer text */
+  /* Warm Grey (Softer than charcoal) */
+  --color-muted: #A8A8A8;
+
+  /* Core Accents */
+  --color-accent: #E2BCBC;
+  /* Dusty Pink */
+  --color-accent-light: #F9EBEB;
+  /* Very light pink */
+
+  /* Requested Pastels */
+  --color-pastel-pink: #FFEEEE;
+  --color-pastel-lavender: #F3E6FA;
+  --color-pastel-beige: #F5F0E6;
+  --color-pastel-blue: #E6F0FA;
+  /* Soft sky */
+
+  --font-sans: var(--font-inter);
+  --font-serif: var(--font-playfair);
+  --font-handwriting: var(--font-dancing);
+
+  --animate-fade-in: fadeIn 1.5s ease-out forwards;
+  --animate-fade-in-slow: fadeIn 3s ease-out forwards;
+  --animate-float: float 6s ease-in-out infinite;
+  --animate-carousel: carousel 40s linear infinite;
+
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes float {
+
+    0%,
+    100% {
+      transform: translateY(0);
+    }
+
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+
+  @keyframes carousel {
+    0% {
+      transform: translateX(0);
+    }
+
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-sans);
+}

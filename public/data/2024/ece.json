@@ -1,0 +1,602 @@
+[
+  {
+    "RollNumber": "201022020",
+    "Name": "Priya Singh",
+    "FinalOffer": "Deloitte",
+    "CTC (LPA)": "7.6"
+  },
+  {
+    "RollNumber": "301022020",
+    "Name": "Ashna Ahmad",
+    "FinalOffer": "Siemens",
+    "CTC (LPA)": "5"
+  },
+  {
+    "RollNumber": "401022020",
+    "Name": "Surbhi Dhir",
+    "FinalOffer": "JPMC",
+    "CTC (LPA)": "19.75"
+  },
+  {
+    "RollNumber": "601022020",
+    "Name": "Manika Joshi",
+    "FinalOffer": "Microsoft",
+    "CTC (LPA)": "51"
+  },
+  {
+    "RollNumber": "1101022020",
+    "Name": "Nishtha Rastogi",
+    "FinalOffer": "Citi Bank",
+    "CTC (LPA)": "18"
+  },
+  {
+    "RollNumber": "1301022020",
+    "Name": "Smridhi Gupta",
+    "FinalOffer": "Citi Bank",
+    "CTC (LPA)": "18"
+  },
+  {
+    "RollNumber": "1401022020",
+    "Name": "Khushi Jain",
+    "FinalOffer": "American Express",
+    "CTC (LPA)": "18"
+  },
+  {
+    "RollNumber": "1601022020",
+    "Name": "Anoushka Dixit",
+    "FinalOffer": "Synopsys",
+    "CTC (LPA)": "21.83"
+  },
+  {
+    "RollNumber": "1701022020",
+    "Name": "Radhika Singhal",
+    "FinalOffer": "Deloitte",
+    "CTC (LPA)": "8"
+  },
+  {
+    "RollNumber": "2101022020",
+    "Name": "Harshita Mangotra",
+    "FinalOffer": "ION",
+    "CTC (LPA)": "14"
+  },
+  {
+    "RollNumber": "2201022020",
+    "Name": "Vrinda Makkar",
+    "FinalOffer": "PwC",
+    "CTC (LPA)": "9"
+  },
+  {
+    "RollNumber": "2301022020",
+    "Name": "Bhavya Bateja",
+    "FinalOffer": "Airtel Payments Bank",
+    "CTC (LPA)": "14.75"
+  },
+  {
+    "RollNumber": "2501022020",
+    "Name": "Jagriti Tripathi",
+    "FinalOffer": "Nomura",
+    "CTC (LPA)": "11.66"
+  },
+  {
+    "RollNumber": "2701022020",
+    "Name": "Aanima Goyal",
+    "FinalOffer": "McDermott",
+    "CTC (LPA)": "7.5"
+  },
+  {
+    "RollNumber": "2801022020",
+    "Name": "Kashika Jain",
+    "FinalOffer": "American Express",
+    "CTC (LPA)": "18"
+  },
+  {
+    "RollNumber": "2901022020",
+    "Name": "shrutika soni",
+    "FinalOffer": "McDermott",
+    "CTC (LPA)": "7.5"
+  },
+  {
+    "RollNumber": "3001022020",
+    "Name": "Shuchita Bhutani",
+    "FinalOffer": "NXP Semiconductors",
+    "CTC (LPA)": "23"
+  },
+  {
+    "RollNumber": "3101022020",
+    "Name": "Yamini Singh",
+    "FinalOffer": "Fidelity International",
+    "CTC (LPA)": "8"
+  },
+  {
+    "RollNumber": "3201022020",
+    "Name": "Soumya Vats",
+    "FinalOffer": "Deutsche Bank",
+    "CTC (LPA)": "19"
+  },
+  {
+    "RollNumber": "3401022020",
+    "Name": "Anisha Rai",
+    "FinalOffer": "JPMC",
+    "CTC (LPA)": "19.75"
+  },
+  {
+    "RollNumber": "3501022020",
+    "Name": "Nikita Garg",
+    "FinalOffer": "Barclays",
+    "CTC (LPA)": "13.3"
+  },
+  {
+    "RollNumber": "3701022020",
+    "Name": "Sanju",
+    "FinalOffer": "Infosys",
+    "CTC (LPA)": "9.5"
+  },
+  {
+    "RollNumber": "3901022020",
+    "Name": "Kritika Srivastava",
+    "FinalOffer": "Microsoft",
+    "CTC (LPA)": "51"
+  },
+  {
+    "RollNumber": "4001022020",
+    "Name": "Khushi Jain",
+    "FinalOffer": "Deutsche Bank",
+    "CTC (LPA)": "19.63"
+  },
+  {
+    "RollNumber": "4101022020",
+    "Name": "Sagarika Sil",
+    "FinalOffer": "Corning",
+    "CTC (LPA)": "20.57"
+  },
+  {
+    "RollNumber": "4301022020",
+    "Name": "priyanka mohanty",
+    "FinalOffer": "Deloitte",
+    "CTC (LPA)": "7.6"
+  },
+  {
+    "RollNumber": "4401022020",
+    "Name": "Arpita Jena",
+    "FinalOffer": "PwC",
+    "CTC (LPA)": "9.02"
+  },
+  {
+    "RollNumber": "4601022020",
+    "Name": "Aparna Jha",
+    "FinalOffer": "TATA Motors",
+    "CTC (LPA)": "10.5"
+  },
+  {
+    "RollNumber": "4701022020",
+    "Name": "Aakriti Sharma",
+    "FinalOffer": "Observe.AI",
+    "CTC (LPA)": "33"
+  },
+  {
+    "RollNumber": "4801022020",
+    "Name": "Abhilasha Sharma",
+    "FinalOffer": "NXP Semiconductors",
+    "CTC (LPA)": "23"
+  },
+  {
+    "RollNumber": "5001022020",
+    "Name": "Deepshikha",
+    "FinalOffer": "Synopsys",
+    "CTC (LPA)": "21.83"
+  },
+  {
+    "RollNumber": "5101022020",
+    "Name": "Meghna Sharma",
+    "FinalOffer": "Airtel Payments Bank",
+    "CTC (LPA)": "14.75"
+  },
+  {
+    "RollNumber": "5201022020",
+    "Name": "Shivani kumari",
+    "FinalOffer": "PwC",
+    "CTC (LPA)": "9.02"
+  },
+  {
+    "RollNumber": "5301022020",
+    "Name": "Swati Gupta",
+    "FinalOffer": "Oracle",
+    "CTC (LPA)": "19.18"
+  },
+  {
+    "RollNumber": "5401022020",
+    "Name": "Astha Narayan",
+    "FinalOffer": "Citi Bank",
+    "CTC (LPA)": "18"
+  },
+  {
+    "RollNumber": "5501022020",
+    "Name": "Shwetmala Jha",
+    "FinalOffer": "PwC",
+    "CTC (LPA)": "9.02"
+  },
+  {
+    "RollNumber": "5601022020",
+    "Name": "Astha Sinha",
+    "FinalOffer": "Microsoft",
+    "CTC (LPA)": "51"
+  },
+  {
+    "RollNumber": "5701022020",
+    "Name": "Ritika Goyal",
+    "FinalOffer": "JPMC",
+    "CTC (LPA)": "19.75"
+  },
+  {
+    "RollNumber": "5901022020",
+    "Name": "Aditi Sharma",
+    "FinalOffer": "NXP Semiconductors",
+    "CTC (LPA)": "23"
+  },
+  {
+    "RollNumber": "6601022020",
+    "Name": "Charvi Bansal",
+    "FinalOffer": "Uber",
+    "CTC (LPA)": "38.44"
+  },
+  {
+    "RollNumber": "6701022020",
+    "Name": "Nandini Agarwal",
+    "FinalOffer": "Google",
+    "CTC (LPA)": "52"
+  },
+  {
+    "RollNumber": "6801022020",
+    "Name": "Hemadri Rawat",
+    "FinalOffer": "Citi Bank",
+    "CTC (LPA)": "18"
+  },
+  {
+    "RollNumber": "6901022020",
+    "Name": "Tamanna khaitan",
+    "FinalOffer": "Salesforce",
+    "CTC (LPA)": "44"
+  },
+  {
+    "RollNumber": "7001022020",
+    "Name": "Kirti Aggarwal",
+    "FinalOffer": "Deutsche Bank",
+    "CTC (LPA)": "19.6"
+  },
+  {
+    "RollNumber": "7201022020",
+    "Name": "Arushi Garg",
+    "FinalOffer": "Adobe",
+    "CTC (LPA)": "56"
+  },
+  {
+    "RollNumber": "7401022020",
+    "Name": "Noopur Nigam Gautam",
+    "FinalOffer": "Deloitte",
+    "CTC (LPA)": "7.6"
+  },
+  {
+    "RollNumber": "7501022020",
+    "Name": "Areen Kaur Ahluwalia",
+    "FinalOffer": "Goldman Sachs",
+    "CTC (LPA)": "24"
+  },
+  {
+    "RollNumber": "7801022020",
+    "Name": "Deepanshi Teotia",
+    "FinalOffer": "Oracle",
+    "CTC (LPA)": "19.18"
+  },
+  {
+    "RollNumber": "7901022020",
+    "Name": "Mitika Tewari",
+    "FinalOffer": "Cisco",
+    "CTC (LPA)": "17"
+  },
+  {
+    "RollNumber": "8501022020",
+    "Name": "Saumya Sharma",
+    "FinalOffer": "Morgan Stanley",
+    "CTC (LPA)": "30.09"
+  },
+  {
+    "RollNumber": "8801022020",
+    "Name": "Vanshika Bhatia",
+    "FinalOffer": "Novartis",
+    "CTC (LPA)": "9.78"
+  },
+  {
+    "RollNumber": "9001022020",
+    "Name": "Smriti Gupta",
+    "FinalOffer": "Salesforce",
+    "CTC (LPA)": "43"
+  },
+  {
+    "RollNumber": "9201022020",
+    "Name": "Yashvi Singh",
+    "FinalOffer": "ION",
+    "CTC (LPA)": "14"
+  },
+  {
+    "RollNumber": "9201022020",
+    "Name": "Manshi Kumari",
+    "FinalOffer": "Airtel Payments Bank",
+    "CTC (LPA)": "14.75"
+  },
+  {
+    "RollNumber": "9301022020",
+    "Name": "Wagisha",
+    "FinalOffer": "Observe.AI",
+    "CTC (LPA)": "33"
+  },
+  {
+    "RollNumber": "9501022020",
+    "Name": "Jasleen Kaur Aneja",
+    "FinalOffer": "Walmart",
+    "CTC (LPA)": "22"
+  },
+  {
+    "RollNumber": "9601022020",
+    "Name": "Prerna Chawla",
+    "FinalOffer": "Rockwell Automation",
+    "CTC (LPA)": "6.09"
+  },
+  {
+    "RollNumber": "9701022020",
+    "Name": "Mansi",
+    "FinalOffer": "Ultimate Kronos Group (UKG)",
+    "CTC (LPA)": "15.5"
+  },
+  {
+    "RollNumber": "9801022020",
+    "Name": "SHATAKSHI SHUKLA",
+    "FinalOffer": "Nomura",
+    "CTC (LPA)": "13.66"
+  },
+  {
+    "RollNumber": "10001022020",
+    "Name": "Sneh Rateria",
+    "FinalOffer": "Boston consulting group",
+    "CTC (LPA)": "10"
+  },
+  {
+    "RollNumber": "10201022020",
+    "Name": "Ishika Pandey",
+    "FinalOffer": "McDermott",
+    "CTC (LPA)": "7.5"
+  },
+  {
+    "RollNumber": "10301022020",
+    "Name": "Armesha Sharma",
+    "FinalOffer": "TransUnion CIBIL",
+    "CTC (LPA)": "8"
+  },
+  {
+    "RollNumber": "10401022020",
+    "Name": "Monal Mittal",
+    "FinalOffer": "Wells Fargo",
+    "CTC (LPA)": "24"
+  },
+  {
+    "RollNumber": "10601022020",
+    "Name": "Meenal Khemchandani",
+    "FinalOffer": "PwC",
+    "CTC (LPA)": "9"
+  },
+  {
+    "RollNumber": "10701022020",
+    "Name": "Anshika Baghel",
+    "FinalOffer": "Deloitte",
+    "CTC (LPA)": "7.5"
+  },
+  {
+    "RollNumber": "10801022020",
+    "Name": "Anchal choudhary",
+    "FinalOffer": "Na",
+    "CTC (LPA)": "7.65"
+  },
+  {
+    "RollNumber": "10901022020",
+    "Name": "MINAL VERMA",
+    "FinalOffer": "Mercari",
+    "CTC (LPA)": "16"
+  },
+  {
+    "RollNumber": "11101022020",
+    "Name": "Anjali Gupta",
+    "FinalOffer": "VISA",
+    "CTC (LPA)": "35"
+  },
+  {
+    "RollNumber": "11201022020",
+    "Name": "Harshita Jain",
+    "FinalOffer": "AWS-Amazon Web Services",
+    "CTC (LPA)": "52.89"
+  },
+  {
+    "RollNumber": "11401022020",
+    "Name": "Anjali Aman",
+    "FinalOffer": "BNY Mellon",
+    "CTC (LPA)": "21"
+  },
+  {
+    "RollNumber": "11601022020",
+    "Name": "Srishti Verma",
+    "FinalOffer": "BNY Mellon",
+    "CTC (LPA)": "21.6"
+  },
+  {
+    "RollNumber": "12001022020",
+    "Name": "Prachi Gupta",
+    "FinalOffer": "Goldman Sachs",
+    "CTC (LPA)": "24"
+  },
+  {
+    "RollNumber": "12101022020",
+    "Name": "Janvi panwar",
+    "FinalOffer": "Hero Moto Corp",
+    "CTC (LPA)": "8.25"
+  },
+  {
+    "RollNumber": "12201022020",
+    "Name": "Jasneet kaur",
+    "FinalOffer": "Novartis",
+    "CTC (LPA)": "8.53"
+  },
+  {
+    "RollNumber": "12301022020",
+    "Name": "Preeyal Jyotika",
+    "FinalOffer": "United Airlines",
+    "CTC (LPA)": "9.7"
+  },
+  {
+    "RollNumber": "12501022020",
+    "Name": "Pragya Singh",
+    "FinalOffer": "NXP Semiconductors",
+    "CTC (LPA)": "22"
+  },
+  {
+    "RollNumber": "12601022020",
+    "Name": "Shreya Sharma",
+    "FinalOffer": "PCL technologies",
+    "CTC (LPA)": "22"
+  },
+  {
+    "RollNumber": "12801022020",
+    "Name": "Yogya Kalra",
+    "FinalOffer": "American Express",
+    "CTC (LPA)": "19"
+  },
+  {
+    "RollNumber": "13001022020",
+    "Name": "Anjali Vidya Sagar",
+    "FinalOffer": "Deloitte",
+    "CTC (LPA)": "7.6"
+  },
+  {
+    "RollNumber": "13201022020",
+    "Name": "Aanchal Istwal",
+    "FinalOffer": "Microsoft",
+    "CTC (LPA)": "51"
+  },
+  {
+    "RollNumber": "13401022020",
+    "Name": "Naiyya Mittal",
+    "FinalOffer": "NXP Semiconductors",
+    "CTC (LPA)": "22.5"
+  },
+  {
+    "RollNumber": "13501022020",
+    "Name": "Srishty",
+    "FinalOffer": "Novartis",
+    "CTC (LPA)": "8.53"
+  },
+  {
+    "RollNumber": "13601022020",
+    "Name": "Manisha yadav",
+    "FinalOffer": "Rockwell Automation",
+    "CTC (LPA)": "6"
+  },
+  {
+    "RollNumber": "13701022020",
+    "Name": "Manvika Gupta",
+    "FinalOffer": "Barclays",
+    "CTC (LPA)": "13.33"
+  },
+  {
+    "RollNumber": "14401022020",
+    "Name": "ANJU",
+    "FinalOffer": "TCS",
+    "CTC (LPA)": "3.36"
+  },
+  {
+    "RollNumber": "14601022020",
+    "Name": "Nidhi Rawat",
+    "FinalOffer": "Tata Motors",
+    "CTC (LPA)": "10.5"
+  },
+  {
+    "RollNumber": "15301022020",
+    "Name": "Sanskriti Agarwal",
+    "FinalOffer": "Goldman Sachs",
+    "CTC (LPA)": "24"
+  },
+  {
+    "RollNumber": "15401022020",
+    "Name": "Vidhisha Mishra",
+    "FinalOffer": "Citi Bank",
+    "CTC (LPA)": "15.76"
+  },
+  {
+    "RollNumber": "15501022020",
+    "Name": "Abha Bhardwaj",
+    "FinalOffer": "ServiceNow",
+    "CTC (LPA)": "42.6"
+  },
+  {
+    "RollNumber": "15601022020",
+    "Name": "Maithili Singh",
+    "FinalOffer": "Salesforce",
+    "CTC (LPA)": "43.8"
+  },
+  {
+    "RollNumber": "15801022020",
+    "Name": "Anantha Akshaya",
+    "FinalOffer": "VISA",
+    "CTC (LPA)": "31"
+  },
+  {
+    "RollNumber": "15901022020",
+    "Name": "Akshita",
+    "FinalOffer": "CB&I India Private Limited",
+    "CTC (LPA)": "7.5"
+  },
+  {
+    "RollNumber": "16101022020",
+    "Name": "sejal singh",
+    "FinalOffer": "Nomura",
+    "CTC (LPA)": "14"
+  },
+  {
+    "RollNumber": "16201022020",
+    "Name": "Ravisha Rohilla",
+    "FinalOffer": "Rockwell Automation",
+    "CTC (LPA)": "6.09"
+  },
+  {
+    "RollNumber": "16301022020",
+    "Name": "Sejal Ahuja",
+    "FinalOffer": "American Express",
+    "CTC (LPA)": "18.94"
+  },
+  {
+    "RollNumber": "16501022020",
+    "Name": "Anjali jha",
+    "FinalOffer": "Tesco",
+    "CTC (LPA)": "21"
+  },
+  {
+    "RollNumber": "16601022020",
+    "Name": "Chaynika Arora",
+    "FinalOffer": "Uber",
+    "CTC (LPA)": "38.44"
+  },
+  {
+    "RollNumber": "16701022020",
+    "Name": "Sukritee Sharma",
+    "FinalOffer": "American Express",
+    "CTC (LPA)": "17"
+  },
+  {
+    "RollNumber": "16801022020",
+    "Name": "Deepika",
+    "FinalOffer": "Salesforce",
+    "CTC (LPA)": "43"
+  },
+  {
+    "RollNumber": "16901022020",
+    "Name": "Shreya",
+    "FinalOffer": "Airtel Payments Bank",
+    "CTC (LPA)": "15"
+  }
+]

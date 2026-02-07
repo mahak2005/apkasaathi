@@ -1,0 +1,37 @@
+[
+  {
+    "Branch": "CSE AI",
+    "TotalStudents": "76",
+    "InternStudents": "42",
+    "HighestStipend(LPM)": "1.6",
+    "HighestStipendCompany": "Uber"
+  },
+  {
+    "Branch": "CSE",
+    "TotalStudents": "188",
+    "InternStudents": "120",
+    "HighestStipend(LPM)": "1.6",
+    "HighestStipendCompany": "Uber"
+  },
+  {
+    "Branch": "IT",
+    "TotalStudents": "149",
+    "InternStudents": "112",
+    "HighestStipend(LPM)": "1.25",
+    "HighestStipendCompany": "Microsoft"
+  },
+  {
+    "Branch": "ECE",
+    "TotalStudents": "146",
+    "InternStudents": "57",
+    "HighestStipend(LPM)": "1.6",
+    "HighestStipendCompany": "Uber"
+  },
+  {
+    "Branch": "MAE",
+    "TotalStudents": "96",
+    "InternStudents": "64",
+    "HighestStipend(LPM)": "0.5",
+    "HighestStipendCompany": "ITC"
+  }
+]

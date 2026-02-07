@@ -1,0 +1,284 @@
+[
+  {
+    "RollNumber": "101022017",
+    "Name": "Sakshi Shreya",
+    "FinalOffer": "Fractal Analytics",
+    "CTC (LPA)": "10.5 LPA"
+  },
+  {
+    "RollNumber": "301022017",
+    "Name": "Shinjini",
+    "FinalOffer": "Dell",
+    "CTC (LPA)": "8 LPA"
+  },
+  {
+    "RollNumber": "601022017",
+    "Name": "Nibha",
+    "FinalOffer": "Tata Electronics",
+    "CTC (LPA)": "5.25 LPA"
+  },
+  {
+    "RollNumber": "801022017",
+    "Name": "Sanju",
+    "FinalOffer": "Tata Electronics",
+    "CTC (LPA)": "5.25 LPA"
+  },
+  {
+    "RollNumber": "901022017",
+    "Name": "Lipika Rustagi",
+    "FinalOffer": "Oracle",
+    "CTC (LPA)": "11 LPA"
+  },
+  {
+    "RollNumber": "1001022017",
+    "Name": "Nancy Gupta",
+    "FinalOffer": "Societe Generale",
+    "CTC (LPA)": "13.12 LPA"
+  },
+  {
+    "RollNumber": "1101022017",
+    "Name": "Sudeshna Guha",
+    "FinalOffer": "Eaton",
+    "CTC (LPA)": "6.25 LPA"
+  },
+  {
+    "RollNumber": "1301022017",
+    "Name": "Aakriti Rustagi",
+    "FinalOffer": "Thoughtworks",
+    "CTC (LPA)": "8.3 LPA"
+  },
+  {
+    "RollNumber": "1701022017",
+    "Name": "Devhuti Chauhan",
+    "FinalOffer": "Effectual Services",
+    "CTC (LPA)": "3.5 LPA"
+  },
+  {
+    "RollNumber": "1801022017",
+    "Name": "Surbhi Kumari",
+    "FinalOffer": "Ericsson Global",
+    "CTC (LPA)": "6.5 LPA"
+  },
+  {
+    "RollNumber": "2001022017",
+    "Name": "Satwika",
+    "FinalOffer": "Goldman Sachs",
+    "CTC (LPA)": "23 LPA"
+  },
+  {
+    "RollNumber": "2101022017",
+    "Name": "Disha Giri",
+    "FinalOffer": "Deutsche Bank",
+    "CTC (LPA)": "19.63 LPA"
+  },
+  {
+    "RollNumber": "2301022017",
+    "Name": "Muskan Jain",
+    "FinalOffer": "Atlassian",
+    "CTC (LPA)": "51.75 LPA"
+  },
+  {
+    "RollNumber": "2601022017",
+    "Name": "Pragya Choudhary",
+    "FinalOffer": "SAP Labs",
+    "CTC (LPA)": "20.5 LPA"
+  },
+  {
+    "RollNumber": "2801022017",
+    "Name": "Sakshi Sharma",
+    "FinalOffer": "Morgan Stanley",
+    "CTC (LPA)": "25.3 LPA"
+  },
+  {
+    "RollNumber": "2901022017",
+    "Name": "Trishala Saxena",
+    "FinalOffer": "Oracle",
+    "CTC (LPA)": "11 LPA"
+  },
+  {
+    "RollNumber": "3001022017",
+    "Name": "Meghna Tandon",
+    "FinalOffer": "Western Digital",
+    "CTC (LPA)": "19.15 LPA"
+  },
+  {
+    "RollNumber": "3101022017",
+    "Name": "Shivangi Saraswat",
+    "FinalOffer": "TCS Digital",
+    "CTC (LPA)": "7 LPA"
+  },
+  {
+    "RollNumber": "3201022017",
+    "Name": "Shalini Jha",
+    "FinalOffer": "Google",
+    "CTC (LPA)": "59.45 LPA"
+  },
+  {
+    "RollNumber": "3301022017",
+    "Name": "Anushka Bharti",
+    "FinalOffer": "Adobe",
+    "CTC (LPA)": "43.5 LPA"
+  },
+  {
+    "RollNumber": "3601022017",
+    "Name": "Sunidhi Mittal",
+    "FinalOffer": "ZS Associates",
+    "CTC (LPA)": "13.43 LPA"
+  },
+  {
+    "RollNumber": "3701022017",
+    "Name": "Shaina",
+    "FinalOffer": "Ericsson Global",
+    "CTC (LPA)": "6.5 LPA"
+  },
+  {
+    "RollNumber": "3801022017",
+    "Name": "Arundhati",
+    "FinalOffer": "CollegeDunia",
+    "CTC (LPA)": "9 LPA"
+  },
+  {
+    "RollNumber": "4401022017",
+    "Name": "Astha Jha",
+    "FinalOffer": "Societe Generale",
+    "CTC (LPA)": "13.12 LPA"
+  },
+  {
+    "RollNumber": "4601022017",
+    "Name": "Kirti",
+    "FinalOffer": "Tata Electronics",
+    "CTC (LPA)": "5.25 LPA"
+  },
+  {
+    "RollNumber": "4701022017",
+    "Name": "Shivangi Gupta",
+    "FinalOffer": "Accenture",
+    "CTC (LPA)": "4.5 LPA"
+  },
+  {
+    "RollNumber": "4801022017",
+    "Name": "Muskan Verma",
+    "FinalOffer": "GeeksforGeeks",
+    "CTC (LPA)": "3 LPA"
+  },
+  {
+    "RollNumber": "4901022017",
+    "Name": "Monika Maheshwari",
+    "FinalOffer": "Paytm",
+    "CTC (LPA)": "5 LPA"
+  },
+  {
+    "RollNumber": "5001022017",
+    "Name": "Isha Kansal",
+    "FinalOffer": "Flipkart",
+    "CTC (LPA)": "26.57 LPA"
+  },
+  {
+    "RollNumber": "5101022017",
+    "Name": "Disha Sharma",
+    "FinalOffer": "Western Digital",
+    "CTC (LPA)": "19.15 LPA"
+  },
+  {
+    "RollNumber": "5301022017",
+    "Name": "Tarushi Gupta",
+    "FinalOffer": "Ion Group",
+    "CTC (LPA)": "12.5 LPA"
+  },
+  {
+    "RollNumber": "5501022017",
+    "Name": "Visheshta Verma",
+    "FinalOffer": "Capegemini",
+    "CTC (LPA)": "3.8 LPA"
+  },
+  {
+    "RollNumber": "5601022017",
+    "Name": "Mansi Kesharwani",
+    "FinalOffer": "Deutsche Bank",
+    "CTC (LPA)": "19.63 LPA"
+  },
+  {
+    "RollNumber": "5701022017",
+    "Name": "Riddhi Pal",
+    "FinalOffer": "CollegeDunia",
+    "CTC (LPA)": "9 LPA"
+  },
+  {
+    "RollNumber": "5801022017",
+    "Name": "Pranjal Raaj",
+    "FinalOffer": "SAP Labs",
+    "CTC (LPA)": "20.5 LPA"
+  },
+  {
+    "RollNumber": "5901022017",
+    "Name": "Sara Dubey",
+    "FinalOffer": "Rockwell Automation",
+    "CTC (LPA)": "5.5 LPA"
+  },
+  {
+    "RollNumber": "6101022017",
+    "Name": "Saumya Chauhan",
+    "FinalOffer": "Publicis Sapient",
+    "CTC (LPA)": "9 LPA"
+  },
+  {
+    "RollNumber": "6301022017",
+    "Name": "Swati Pasi",
+    "FinalOffer": "JPMC",
+    "CTC (LPA)": "14 LPA"
+  },
+  {
+    "RollNumber": "6501022017",
+    "Name": "Anushka Aggarwal",
+    "FinalOffer": "NXP Semiconductor",
+    "CTC (LPA)": "14.1 LPA"
+  },
+  {
+    "RollNumber": "6601022017",
+    "Name": "Ayushi Jain",
+    "FinalOffer": "Optum",
+    "CTC (LPA)": "7.15 LPA"
+  },
+  {
+    "RollNumber": "6801022017",
+    "Name": "Shivani Dhiman",
+    "FinalOffer": "Ericsson Global",
+    "CTC (LPA)": "6.5 LPA"
+  },
+  {
+    "RollNumber": "6901022017",
+    "Name": "Koneti Soumya",
+    "FinalOffer": "Thoughtworks",
+    "CTC (LPA)": "8.3 LPA"
+  },
+  {
+    "RollNumber": "7001022017",
+    "Name": "Vaishnavi Singh",
+    "FinalOffer": "Expedia",
+    "CTC (LPA)": "35 LPA"
+  },
+  {
+    "RollNumber": "7701022017",
+    "Name": "Shreya Singhal",
+    "FinalOffer": "Cisco",
+    "CTC (LPA)": "14.37 LPA"
+  },
+  {
+    "RollNumber": "7801022017",
+    "Name": "Shefali Saini",
+    "FinalOffer": "Amazon",
+    "CTC (LPA)": "30 LPA"
+  },
+  {
+    "RollNumber": "7901022017",
+    "Name": "Shivangi Singhal",
+    "FinalOffer": "Paytm",
+    "CTC (LPA)": "5 LPA"
+  },
+  {
+    "RollNumber": "8001022017",
+    "Name": "Neha",
+    "FinalOffer": "Publicis Sapient",
+    "CTC (LPA)": "9 LPA"
+  }
+]

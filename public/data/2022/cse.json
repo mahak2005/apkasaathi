@@ -1,0 +1,830 @@
+[
+  {
+    "RollNumber": "00101012018",
+    "Name": "Aamiya Garg",
+    "FinalOffer": "Google",
+    "CTC (LPA)": "30.36"
+  },
+  {
+    "RollNumber": "00201012018",
+    "Name": "Saloni",
+    "FinalOffer": "Wells Fargo",
+    "CTC (LPA)": "20.00"
+  },
+  {
+    "RollNumber": "00301012018",
+    "Name": "Tanya Rana",
+    "FinalOffer": "Citrix",
+    "CTC (LPA)": "24.00"
+  },
+  {
+    "RollNumber": "00401012018",
+    "Name": "Kritika Goswami",
+    "FinalOffer": "Vmware",
+    "CTC (LPA)": "19.72"
+  },
+  {
+    "RollNumber": "00501012018",
+    "Name": "Shreya Rastogi",
+    "FinalOffer": "Walmart",
+    "CTC (LPA)": "23.39"
+  },
+  {
+    "RollNumber": "00601012018",
+    "Name": "Muskan",
+    "FinalOffer": "Deloitte",
+    "CTC (LPA)": "7.60"
+  },
+  {
+    "RollNumber": "00701012018",
+    "Name": "Shailza Singh",
+    "FinalOffer": "Google",
+    "CTC (LPA)": "30.36"
+  },
+  {
+    "RollNumber": "00801012018",
+    "Name": "Suniti Saini",
+    "FinalOffer": "Citi",
+    "CTC (LPA)": "13.70"
+  },
+  {
+    "RollNumber": "00901012018",
+    "Name": "Ankita Haldar",
+    "FinalOffer": "Morgan Stranley",
+    "CTC (LPA)": "27.58"
+  },
+  {
+    "RollNumber": "01101012018",
+    "Name": "Mehak Sangwan",
+    "FinalOffer": "ZS Associates",
+    "CTC (LPA)": "12.84"
+  },
+  {
+    "RollNumber": "01301012018",
+    "Name": "Archita Varshney",
+    "FinalOffer": "Facebook",
+    "CTC (LPA)": "Undisclosed"
+  },
+  {
+    "RollNumber": "01501012018",
+    "Name": "Aakriti Gupta",
+    "FinalOffer": "Intuit",
+    "CTC (LPA)": "39.00"
+  },
+  {
+    "RollNumber": "01601012018",
+    "Name": "Lisa Chandra",
+    "FinalOffer": "Oracle",
+    "CTC (LPA)": "16.64"
+  },
+  {
+    "RollNumber": "01701012018",
+    "Name": "Sakshi Jain",
+    "FinalOffer": "Google",
+    "CTC (LPA)": "30.36"
+  },
+  {
+    "RollNumber": "01801012018",
+    "Name": "Tanya Michelle Minj",
+    "FinalOffer": "Adobe",
+    "CTC (LPA)": "55.00"
+  },
+  {
+    "RollNumber": "01901012018",
+    "Name": "Shruti Aggarwal",
+    "FinalOffer": "Amazon",
+    "CTC (LPA)": "32.00"
+  },
+  {
+    "RollNumber": "02001012018",
+    "Name": "Akanksha",
+    "FinalOffer": "WD",
+    "CTC (LPA)": "19.15"
+  },
+  {
+    "RollNumber": "02101012018",
+    "Name": "Stuti Chauhan",
+    "FinalOffer": "Cisco",
+    "CTC (LPA)": "14.90"
+  },
+  {
+    "RollNumber": "02201012018",
+    "Name": "Kajal Dedha",
+    "FinalOffer": "Youth Icon Politician",
+    "CTC (LPA)": "Not Applicable"
+  },
+  {
+    "RollNumber": "02301012018",
+    "Name": "Anushka Narula",
+    "FinalOffer": "Adobe",
+    "CTC (LPA)": "55.00"
+  },
+  {
+    "RollNumber": "02401012018",
+    "Name": "Anju",
+    "FinalOffer": "Deloitte",
+    "CTC (LPA)": "7.60"
+  },
+  {
+    "RollNumber": "02601012018",
+    "Name": "Diksha Rajput",
+    "FinalOffer": "Publicis Sapeint",
+    "CTC (LPA)": "11.00"
+  },
+  {
+    "RollNumber": "02901012018",
+    "Name": "Vanshika Uniyal",
+    "FinalOffer": "Microsoft",
+    "CTC (LPA)": "46.00"
+  },
+  {
+    "RollNumber": "03001012018",
+    "Name": "Somya Mahajan",
+    "FinalOffer": "Wabtex Corporation",
+    "CTC (LPA)": "17.06"
+  },
+  {
+    "RollNumber": "03101012018",
+    "Name": "Astika Nehra",
+    "FinalOffer": "Twilio",
+    "CTC (LPA)": "43.14"
+  },
+  {
+    "RollNumber": "03201012018",
+    "Name": "Amitasha Tembulkar",
+    "FinalOffer": "Walmart",
+    "CTC (LPA)": "23.39"
+  },
+  {
+    "RollNumber": "03301012018",
+    "Name": "Kajal Sinha",
+    "FinalOffer": "Deloitte",
+    "CTC (LPA)": "7.60"
+  },
+  {
+    "RollNumber": "03401012018",
+    "Name": "Bhavya",
+    "FinalOffer": "Microsoft",
+    "CTC (LPA)": "46.00"
+  },
+  {
+    "RollNumber": "03501012018",
+    "Name": "Muskan Tomar",
+    "FinalOffer": "American Express",
+    "CTC (LPA)": "15.36"
+  },
+  {
+    "RollNumber": "03601012018",
+    "Name": "Parvati Sohni",
+    "FinalOffer": "Adobe",
+    "CTC (LPA)": "55.00"
+  },
+  {
+    "RollNumber": "03701012018",
+    "Name": "Akanaksha",
+    "FinalOffer": "Optum",
+    "CTC (LPA)": "13.80"
+  },
+  {
+    "RollNumber": "03801012018",
+    "Name": "Shiva Singhal",
+    "FinalOffer": "Google",
+    "CTC (LPA)": "30.36"
+  },
+  {
+    "RollNumber": "03901012018",
+    "Name": "Ojasvi Tyagi",
+    "FinalOffer": "Amazon Dublin",
+    "CTC (LPA)": "120.00"
+  },
+  {
+    "RollNumber": "04101012018",
+    "Name": "Harshita",
+    "FinalOffer": "Wells Fargo",
+    "CTC (LPA)": "20.00"
+  },
+  {
+    "RollNumber": "04201012018",
+    "Name": "Mehak Goel",
+    "FinalOffer": "Flipkart",
+    "CTC (LPA)": "26.57"
+  },
+  {
+    "RollNumber": "04301012018",
+    "Name": "Karishma Singh Chauhan",
+    "FinalOffer": "Google",
+    "CTC (LPA)": "30.36"
+  },
+  {
+    "RollNumber": "04401012018",
+    "Name": "Navpreet kaur",
+    "FinalOffer": "Microsoft",
+    "CTC (LPA)": "46.00"
+  },
+  {
+    "RollNumber": "04501012018",
+    "Name": "Isha",
+    "FinalOffer": "Twilio",
+    "CTC (LPA)": "43.14"
+  },
+  {
+    "RollNumber": "04601012018",
+    "Name": "Soumya Sharma",
+    "FinalOffer": "Walmart",
+    "CTC (LPA)": "23.39"
+  },
+  {
+    "RollNumber": "04701012018",
+    "Name": "Ishika Goel",
+    "FinalOffer": "Microsoft",
+    "CTC (LPA)": "46.00"
+  },
+  {
+    "RollNumber": "04801012018",
+    "Name": "Rushali Khilrani",
+    "FinalOffer": "Zynga",
+    "CTC (LPA)": "54.50"
+  },
+  {
+    "RollNumber": "04901012018",
+    "Name": "Bhoomi Kohli",
+    "FinalOffer": "Microsoft",
+    "CTC (LPA)": "46.00"
+  },
+  {
+    "RollNumber": "05001012018",
+    "Name": "Pranjli Singh",
+    "FinalOffer": "Google",
+    "CTC (LPA)": "30.36"
+  },
+  {
+    "RollNumber": "05101012018",
+    "Name": "Mehak Jain",
+    "FinalOffer": "Expedia",
+    "CTC (LPA)": "35.05"
+  },
+  {
+    "RollNumber": "05301012018",
+    "Name": "Zeba ali",
+    "FinalOffer": "Oracle",
+    "CTC (LPA)": "16.64"
+  },
+  {
+    "RollNumber": "05401012018",
+    "Name": "Ritika Joshi",
+    "FinalOffer": "Microsoft",
+    "CTC (LPA)": "46.00"
+  },
+  {
+    "RollNumber": "05501012018",
+    "Name": "Paridhi Gupta",
+    "FinalOffer": "Visa",
+    "CTC (LPA)": "22.79"
+  },
+  {
+    "RollNumber": "05601012018",
+    "Name": "Saniya",
+    "FinalOffer": "Rippling",
+    "CTC (LPA)": "62.50"
+  },
+  {
+    "RollNumber": "05701012018",
+    "Name": "Megha Gupta",
+    "FinalOffer": "Microsoft",
+    "CTC (LPA)": "46.00"
+  },
+  {
+    "RollNumber": "05801012018",
+    "Name": "Tehreem Ansari",
+    "FinalOffer": "Fab Hotels",
+    "CTC (LPA)": "14.00"
+  },
+  {
+    "RollNumber": "05901012018",
+    "Name": "Nandini Mehta",
+    "FinalOffer": "Flipkart",
+    "CTC (LPA)": "32.65"
+  },
+  {
+    "RollNumber": "06001012018",
+    "Name": "Rhea Hooda",
+    "FinalOffer": "Microsoft",
+    "CTC (LPA)": "46.00"
+  },
+  {
+    "RollNumber": "06101012018",
+    "Name": "Priyanka Maan",
+    "FinalOffer": "Wells Fargo",
+    "CTC (LPA)": "20.00"
+  },
+  {
+    "RollNumber": "06201012018",
+    "Name": "Sara Anwer",
+    "FinalOffer": "Google",
+    "CTC (LPA)": "30.36"
+  },
+  {
+    "RollNumber": "06301012018",
+    "Name": "Pakhi Bansal",
+    "FinalOffer": "Amazon Dublin",
+    "CTC (LPA)": "120.00"
+  },
+  {
+    "RollNumber": "06401012018",
+    "Name": "Anusha Mittal",
+    "FinalOffer": "Atlassian",
+    "CTC (LPA)": "26.57"
+  },
+  {
+    "RollNumber": "06501012018",
+    "Name": "Muskan Verma",
+    "FinalOffer": "Uber",
+    "CTC (LPA)": "35.53"
+  },
+  {
+    "RollNumber": "06701012018",
+    "Name": "Tushti",
+    "FinalOffer": "Microsoft",
+    "CTC (LPA)": "46.00"
+  },
+  {
+    "RollNumber": "06801012018",
+    "Name": "KM Anju",
+    "FinalOffer": "Vmware",
+    "CTC (LPA)": "19.72"
+  },
+  {
+    "RollNumber": "06901012018",
+    "Name": "Shivani",
+    "FinalOffer": "Higher Studies",
+    "CTC (LPA)": "Not Applicable"
+  },
+  {
+    "RollNumber": "07001012018",
+    "Name": "Suchi Jha",
+    "FinalOffer": "American Express",
+    "CTC (LPA)": "15.36"
+  },
+  {
+    "RollNumber": "07101012018",
+    "Name": "Pragya",
+    "FinalOffer": "American Express",
+    "CTC (LPA)": "15.36"
+  },
+  {
+    "RollNumber": "07201012018",
+    "Name": "Apoorva Mittal",
+    "FinalOffer": "Google",
+    "CTC (LPA)": "30.36"
+  },
+  {
+    "RollNumber": "07301012018",
+    "Name": "Swastika Tiwari",
+    "FinalOffer": "Intuit",
+    "CTC (LPA)": "39.00"
+  },
+  {
+    "RollNumber": "07401012018",
+    "Name": "Nancy Solanki",
+    "FinalOffer": "Micorosoft",
+    "CTC (LPA)": "46.00"
+  },
+  {
+    "RollNumber": "06901012018",
+    "Name": "Shivani",
+    "FinalOffer": "Higher Studies",
+    "CTC (LPA)": "Not Applicable"
+  },
+  {
+    "RollNumber": "07701012018",
+    "Name": "Muskan",
+    "FinalOffer": "Wells Fargo",
+    "CTC (LPA)": "20.00"
+  },
+  {
+    "RollNumber": "07801012018",
+    "Name": "Astha Jain",
+    "FinalOffer": "Facebook",
+    "CTC (LPA)": "Undisclosed"
+  },
+  {
+    "RollNumber": "07901012018",
+    "Name": "Ananya Jain",
+    "FinalOffer": "Google",
+    "CTC (LPA)": "36.00"
+  },
+  {
+    "RollNumber": "08001012018",
+    "Name": "Deeksha Gautam",
+    "FinalOffer": "Citi",
+    "CTC (LPA)": "13.70"
+  },
+  {
+    "RollNumber": "08101012018",
+    "Name": "Joshita Verma",
+    "FinalOffer": "Citi",
+    "CTC (LPA)": "13.70"
+  },
+  {
+    "RollNumber": "08301012018",
+    "Name": "Kannu Priya",
+    "FinalOffer": "Infoedge",
+    "CTC (LPA)": "14.50"
+  },
+  {
+    "RollNumber": "08401012018",
+    "Name": "Prerna",
+    "FinalOffer": "Citi",
+    "CTC (LPA)": "13.70"
+  },
+  {
+    "RollNumber": "08501012018",
+    "Name": "Manya Kumari",
+    "FinalOffer": "Hewlett Packard Enterprise",
+    "CTC (LPA)": "10.00"
+  },
+  {
+    "RollNumber": "08601012018",
+    "Name": "Gini Angurala",
+    "FinalOffer": "Adobe",
+    "CTC (LPA)": "55.00"
+  },
+  {
+    "RollNumber": "08801012018",
+    "Name": "Kritleen Kaur",
+    "FinalOffer": "Microsoft",
+    "CTC (LPA)": "46.00"
+  },
+  {
+    "RollNumber": "09001012018",
+    "Name": "Akanksha Pal",
+    "FinalOffer": "Expedia Group",
+    "CTC (LPA)": "35.26"
+  },
+  {
+    "RollNumber": "09101012018",
+    "Name": "Sakshi",
+    "FinalOffer": "Western Digital",
+    "CTC (LPA)": "19.15"
+  },
+  {
+    "RollNumber": "09301012018",
+    "Name": "Chanchal Singh",
+    "FinalOffer": "Collegedunia",
+    "CTC (LPA)": "9.00"
+  },
+  {
+    "RollNumber": "09401012018",
+    "Name": "Afshan Ayubi",
+    "FinalOffer": "Capegemini",
+    "CTC (LPA)": "7.50"
+  },
+  {
+    "RollNumber": "09601012018",
+    "Name": "Aashi Verma",
+    "FinalOffer": "Microsoft",
+    "CTC (LPA)": "46.00"
+  },
+  {
+    "RollNumber": "09701012018",
+    "Name": "Anusha Bansal",
+    "FinalOffer": "Oracle",
+    "CTC (LPA)": "16.64"
+  },
+  {
+    "RollNumber": "09801012018",
+    "Name": "Swati Bhat",
+    "FinalOffer": "Deloitte",
+    "CTC (LPA)": "7.60"
+  },
+  {
+    "RollNumber": "09901012018",
+    "Name": "Muskan Lalit",
+    "FinalOffer": "Higher Studies - University of Southern California",
+    "CTC (LPA)": "Not Applicable"
+  },
+  {
+    "RollNumber": "10001012018",
+    "Name": "Medha Bhattacharya",
+    "FinalOffer": "Wells Fargo",
+    "CTC (LPA)": "20.00"
+  },
+  {
+    "RollNumber": "10101012018",
+    "Name": "Sanjana Drall",
+    "FinalOffer": "Publicis Sapient",
+    "CTC (LPA)": "10.00"
+  },
+  {
+    "RollNumber": "10201012018",
+    "Name": "Soumya Kapsime",
+    "FinalOffer": "American Express",
+    "CTC (LPA)": "15.36"
+  },
+  {
+    "RollNumber": "10301012018",
+    "Name": "Soumya Rao",
+    "FinalOffer": "Rippling",
+    "CTC (LPA)": "62.50"
+  },
+  {
+    "RollNumber": "10401012018",
+    "Name": "Sukriti Singh",
+    "FinalOffer": "Wells Fargo",
+    "CTC (LPA)": "20.00"
+  },
+  {
+    "RollNumber": "10501012018",
+    "Name": "Hansika Rajput",
+    "FinalOffer": "Atlassian",
+    "CTC (LPA)": "26.57"
+  },
+  {
+    "RollNumber": "10601012018",
+    "Name": "Ananyaa Utreja",
+    "FinalOffer": "Morgan Stanley",
+    "CTC (LPA)": "27.58"
+  },
+  {
+    "RollNumber": "10701012018",
+    "Name": "Pearl Gupta",
+    "FinalOffer": "Expedia Group",
+    "CTC (LPA)": "35.26"
+  },
+  {
+    "RollNumber": "10801012018",
+    "Name": "Shweta",
+    "FinalOffer": "Microsoft",
+    "CTC (LPA)": "46.00"
+  },
+  {
+    "RollNumber": "10901012018",
+    "Name": "Sirshasree Tripathy",
+    "FinalOffer": "Bank of New York Mellon",
+    "CTC (LPA)": "17.34"
+  },
+  {
+    "RollNumber": "11001012018",
+    "Name": "Abhigya Kumawat",
+    "FinalOffer": "Walmart",
+    "CTC (LPA)": "23.39"
+  },
+  {
+    "RollNumber": "11101012018",
+    "Name": "Komal",
+    "FinalOffer": "Citi",
+    "CTC (LPA)": "13.70"
+  },
+  {
+    "RollNumber": "11201012018",
+    "Name": "Nayan Gupta",
+    "FinalOffer": "Service Now",
+    "CTC (LPA)": "33.59"
+  },
+  {
+    "RollNumber": "11301012018",
+    "Name": "Vanshika Singh",
+    "FinalOffer": "Microsoft",
+    "CTC (LPA)": "46.00"
+  },
+  {
+    "RollNumber": "11401012018",
+    "Name": "Anvita Bansal",
+    "FinalOffer": "GE Digital",
+    "CTC (LPA)": "17.31"
+  },
+  {
+    "RollNumber": "11501012018",
+    "Name": "Minakshi Rai",
+    "FinalOffer": "Lowe's",
+    "CTC (LPA)": "19.34"
+  },
+  {
+    "RollNumber": "11601012018",
+    "Name": "Abhipsa Jena",
+    "FinalOffer": "Morgan Stanley",
+    "CTC (LPA)": "27.58"
+  },
+  {
+    "RollNumber": "11701012018",
+    "Name": "Prachi Poonia",
+    "FinalOffer": "Walmart",
+    "CTC (LPA)": "22.62"
+  },
+  {
+    "RollNumber": "11801012018",
+    "Name": "Dviti Arora",
+    "FinalOffer": "Walmart",
+    "CTC (LPA)": "23.39"
+  },
+  {
+    "RollNumber": "11901012018",
+    "Name": "Sanjana Singh",
+    "FinalOffer": "Bain",
+    "CTC (LPA)": "10.00"
+  },
+  {
+    "RollNumber": "12001012018",
+    "Name": "Neha Pandey",
+    "FinalOffer": "Microsoft",
+    "CTC (LPA)": "46.00"
+  },
+  {
+    "RollNumber": "12101012018",
+    "Name": "Shilpi Kumari",
+    "FinalOffer": "Genpact",
+    "CTC (LPA)": "11.40"
+  },
+  {
+    "RollNumber": "12201012018",
+    "Name": "Divyasha Singh",
+    "FinalOffer": "C2FO",
+    "CTC (LPA)": "30.00"
+  },
+  {
+    "RollNumber": "12301012018",
+    "Name": "Aastha",
+    "FinalOffer": "Deutsche Bank",
+    "CTC (LPA)": "19.60"
+  },
+  {
+    "RollNumber": "12401012018",
+    "Name": "Aaniya Agrawala",
+    "FinalOffer": "Expedia Group",
+    "CTC (LPA)": "35.26"
+  },
+  {
+    "RollNumber": "12601012018",
+    "Name": "Kajal Mongia",
+    "FinalOffer": "Goldman Sachs",
+    "CTC (LPA)": "23.00"
+  },
+  {
+    "RollNumber": "12701012018",
+    "Name": "Apurva Sharma",
+    "FinalOffer": "Atlassian",
+    "CTC (LPA)": "26.57"
+  },
+  {
+    "RollNumber": "12801012018",
+    "Name": "Simran Aggarwal",
+    "FinalOffer": "JPMC",
+    "CTC (LPA)": "14.00"
+  },
+  {
+    "RollNumber": "12901012018",
+    "Name": "Aditi Verma",
+    "FinalOffer": "Microsoft",
+    "CTC (LPA)": "46.00"
+  },
+  {
+    "RollNumber": "13001012018",
+    "Name": "Neetu",
+    "FinalOffer": "Lowe's",
+    "CTC (LPA)": "19.34"
+  },
+  {
+    "RollNumber": "13101012018",
+    "Name": "Monika Jha",
+    "FinalOffer": "Adobe",
+    "CTC (LPA)": "55.00"
+  },
+  {
+    "RollNumber": "13301012018",
+    "Name": "Tamanna Verma",
+    "FinalOffer": "Adobe",
+    "CTC (LPA)": "55.00"
+  },
+  {
+    "RollNumber": "13401012018",
+    "Name": "Neha Kumari",
+    "FinalOffer": "Optum UHG",
+    "CTC (LPA)": "14.20"
+  },
+  {
+    "RollNumber": "13601012018",
+    "Name": "Aarushi Dhingra",
+    "FinalOffer": "Flipkart",
+    "CTC (LPA)": "32.65"
+  },
+  {
+    "RollNumber": "13801012018",
+    "Name": "Quanta Gupta",
+    "FinalOffer": "Visa",
+    "CTC (LPA)": "22.79"
+  },
+  {
+    "RollNumber": "13901012018",
+    "Name": "Garima Nimbhal",
+    "FinalOffer": "Wells Fargo",
+    "CTC (LPA)": "20.00"
+  },
+  {
+    "RollNumber": "14001012018",
+    "Name": "Shubhi Khanna",
+    "FinalOffer": "Western Digital",
+    "CTC (LPA)": "19.15"
+  },
+  {
+    "RollNumber": "14101012018",
+    "Name": "Bhavishya Tolani",
+    "FinalOffer": "Intuit",
+    "CTC (LPA)": "35.82"
+  },
+  {
+    "RollNumber": "14201012018",
+    "Name": "Tanjul Jain",
+    "FinalOffer": "PhonePe",
+    "CTC (LPA)": "30.50"
+  },
+  {
+    "RollNumber": "14301012018",
+    "Name": "Sushmita Yadav",
+    "FinalOffer": "TVS Motors",
+    "CTC (LPA)": "8.00"
+  },
+  {
+    "RollNumber": "14401012018",
+    "Name": "Sanchi Bisht",
+    "FinalOffer": "Google",
+    "CTC (LPA)": "32.65"
+  },
+  {
+    "RollNumber": "14501012018",
+    "Name": "Shivangi Singh",
+    "FinalOffer": "Higher Studies - University of Windsor",
+    "CTC (LPA)": "Not Applicable"
+  },
+  {
+    "RollNumber": "14701012018",
+    "Name": "Sakshi Singh",
+    "FinalOffer": "Oracle",
+    "CTC (LPA)": "16.64"
+  },
+  {
+    "RollNumber": "14801012018",
+    "Name": "Ishika Bansal",
+    "FinalOffer": "Microsoft",
+    "CTC (LPA)": "46.00"
+  },
+  {
+    "RollNumber": "14901012018",
+    "Name": "Pariksha Prajapati",
+    "FinalOffer": "Deutsche Bank",
+    "CTC (LPA)": "19.60"
+  },
+  {
+    "RollNumber": "15001012018",
+    "Name": "Pooja kumari",
+    "FinalOffer": "Hewlett Packard Enterprise",
+    "CTC (LPA)": "10.00"
+  },
+  {
+    "RollNumber": "15301012018",
+    "Name": "Haripriya Vats",
+    "FinalOffer": "Google",
+    "CTC (LPA)": "32.65"
+  },
+  {
+    "RollNumber": "15401012018",
+    "Name": "Parul",
+    "FinalOffer": "UPSC Prep",
+    "CTC (LPA)": "Not Applicable"
+  },
+  {
+    "RollNumber": "15501012018",
+    "Name": "Ashmeen Kaur",
+    "FinalOffer": "Google",
+    "CTC (LPA)": "32.65"
+  },
+  {
+    "RollNumber": "15601012018",
+    "Name": "Aakanksha Singh",
+    "FinalOffer": "Western Digital",
+    "CTC (LPA)": "19.15"
+  },
+  {
+    "RollNumber": "15701012018",
+    "Name": "Urvi Goel",
+    "FinalOffer": "Microsoft",
+    "CTC (LPA)": "46.00"
+  },
+  {
+    "RollNumber": "15801012018",
+    "Name": "Dhriti Arora",
+    "FinalOffer": "Wells Fargo",
+    "CTC (LPA)": "20.00"
+  },
+  {
+    "RollNumber": "",
+    "Name": "Anahita Singla",
+    "FinalOffer": "Amazon Dublin",
+    "CTC (LPA)": "120"
+  },
+  {
+    "RollNumber": "",
+    "Name": "Apoorva Gupta",
+    "FinalOffer": "Barclays UK",
+    "CTC (LPA)": "not disclosed"
+  }
+]

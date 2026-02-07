@@ -1,0 +1,377 @@
+[
+  {
+    "Company": "Adobe",
+    "CTC": "5",
+    "FTEOffers": "49"
+  },
+  {
+    "Company": "Aditya Birla group1",
+    "CTC": "1",
+    "FTEOffers": "7"
+  },
+  {
+    "Company": "Airtel Payments Bank",
+    "CTC": "6",
+    "FTEOffers": "14.75"
+  },
+  {
+    "Company": "Alstom",
+    "CTC": "7",
+    "FTEOffers": "6.8"
+  },
+  {
+    "Company": "Amazon (sde)",
+    "CTC": "4",
+    "FTEOffers": "46"
+  },
+  {
+    "Company": "American Express",
+    "CTC": "16",
+    "FTEOffers": "18.5"
+  },
+  {
+    "Company": "Arcesium",
+    "CTC": "0",
+    "FTEOffers": "35.5"
+  },
+  {
+    "Company": "Atlassian",
+    "CTC": "3",
+    "FTEOffers": "38.4"
+  },
+  {
+    "Company": "Barclays",
+    "CTC": "3",
+    "FTEOffers": "13.32"
+  },
+  {
+    "Company": "Barco Electronics",
+    "CTC": "0",
+    "FTEOffers": "13"
+  },
+  {
+    "Company": "Becton Dickinson",
+    "CTC": "1",
+    "FTEOffers": "7"
+  },
+  {
+    "Company": "Bechtel",
+    "CTC": "1",
+    "FTEOffers": "6.8"
+  },
+  {
+    "Company": "BNY Mellon",
+    "CTC": "7",
+    "FTEOffers": "21"
+  },
+  {
+    "Company": "Cisco",
+    "CTC": "17",
+    "FTEOffers": "24.7"
+  },
+  {
+    "Company": "Citi India",
+    "CTC": "24",
+    "FTEOffers": "18"
+  },
+  {
+    "Company": "Citrix",
+    "CTC": "3",
+    "FTEOffers": "23.36"
+  },
+  {
+    "Company": "Deloitte",
+    "CTC": "12",
+    "FTEOffers": "7.6"
+  },
+  {
+    "Company": "Deutsche Bank",
+    "CTC": "6",
+    "FTEOffers": "19.63"
+  },
+  {
+    "Company": "Disney+ Hotstar",
+    "CTC": "2",
+    "FTEOffers": "32"
+  },
+  {
+    "Company": "EXL",
+    "CTC": "1",
+    "FTEOffers": "6.5"
+  },
+  {
+    "Company": "Ericsson",
+    "CTC": "2",
+    "FTEOffers": "7.5"
+  },
+  {
+    "Company": "Expedia",
+    "CTC": "20",
+    "FTEOffers": "36.03"
+  },
+  {
+    "Company": "Flipkart",
+    "CTC": "3",
+    "FTEOffers": "32"
+  },
+  {
+    "Company": "Fidelity",
+    "CTC": "1",
+    "FTEOffers": "8"
+  },
+  {
+    "Company": "Fractal Analytics",
+    "CTC": "3",
+    "FTEOffers": "13.5"
+  },
+  {
+    "Company": "Goldman Sachs",
+    "CTC": "7",
+    "FTEOffers": "24"
+  },
+  {
+    "Company": "Google (Software)",
+    "CTC": "14",
+    "FTEOffers": "30.36"
+  },
+  {
+    "Company": "HeroMotoCorp",
+    "CTC": "3",
+    "FTEOffers": "8.5"
+  },
+  {
+    "Company": "Infoedge",
+    "CTC": "1",
+    "FTEOffers": "14.5"
+  },
+  {
+    "Company": "ITC Ltd.",
+    "CTC": "3",
+    "FTEOffers": "12"
+  },
+  {
+    "Company": "Intuit",
+    "CTC": "2",
+    "FTEOffers": "42.33"
+  },
+  {
+    "Company": "JPMC",
+    "CTC": "17",
+    "FTEOffers": "17.75"
+  },
+  {
+    "Company": "Jubilant Foodworks",
+    "CTC": "3",
+    "FTEOffers": "18"
+  },
+  {
+    "Company": "McDermott",
+    "CTC": "1",
+    "FTEOffers": "6"
+  },
+  {
+    "Company": "LinkedIn",
+    "CTC": "3",
+    "FTEOffers": "30.46"
+  },
+  {
+    "Company": "Loadshare Networks",
+    "CTC": "4",
+    "FTEOffers": "17"
+  },
+  {
+    "Company": "Lowe's",
+    "CTC": "12",
+    "FTEOffers": "21.25"
+  },
+  {
+    "Company": "Maruti Suzuki",
+    "CTC": "1",
+    "FTEOffers": "8.88"
+  },
+  {
+    "Company": "Mckinsey (Btech)",
+    "CTC": "1",
+    "FTEOffers": "12"
+  },
+  {
+    "Company": "Mckinsey (MCA Mtech)",
+    "CTC": "6",
+    "FTEOffers": "12"
+  },
+  {
+    "Company": "Microsoft",
+    "CTC": "37",
+    "FTEOffers": "51"
+  },
+  {
+    "Company": "Mercedes Benz",
+    "CTC": "1",
+    "FTEOffers": "8"
+  },
+  {
+    "Company": "Morgan Stanley",
+    "CTC": "4",
+    "FTEOffers": "29.48"
+  },
+  {
+    "Company": "Myntra",
+    "CTC": "1",
+    "FTEOffers": "27"
+  },
+  {
+    "Company": "NXP Semiconductors (hardware)",
+    "CTC": "1",
+    "FTEOffers": "20"
+  },
+  {
+    "Company": "Nokia",
+    "CTC": "2",
+    "FTEOffers": "8.2"
+  },
+  {
+    "Company": "Optum",
+    "CTC": "29",
+    "FTEOffers": "14.49"
+  },
+  {
+    "Company": "Oracle India",
+    "CTC": "16",
+    "FTEOffers": "18"
+  },
+  {
+    "Company": "Palo Alto",
+    "CTC": "12",
+    "FTEOffers": "39.81"
+  },
+  {
+    "Company": "PayU",
+    "CTC": "1",
+    "FTEOffers": "16.5"
+  },
+  {
+    "Company": "PhonePe",
+    "CTC": "4",
+    "FTEOffers": "16.55"
+  },
+  {
+    "Company": "ProvIdence",
+    "CTC": "3",
+    "FTEOffers": "27"
+  },
+  {
+    "Company": "Publicls Sapient",
+    "CTC": "2",
+    "FTEOffers": "20.63"
+  },
+  {
+    "Company": "PureStoroge",
+    "CTC": "2",
+    "FTEOffers": "27"
+  },
+  {
+    "Company": "PwC",
+    "CTC": "2",
+    "FTEOffers": "9"
+  },
+  {
+    "Company": "Samsung0",
+    "CTC": "4",
+    "FTEOffers": "20"
+  },
+  {
+    "Company": "SAP",
+    "CTC": "11",
+    "FTEOffers": "24.5"
+  },
+  {
+    "Company": "Schneider Electric",
+    "CTC": "3",
+    "FTEOffers": "9"
+  },
+  {
+    "Company": "ServiceNow",
+    "CTC": "7",
+    "FTEOffers": "33.59"
+  },
+  {
+    "Company": "Societe Generale",
+    "CTC": "2",
+    "FTEOffers": "14.96"
+  },
+  {
+    "Company": "Synopsys",
+    "CTC": "4",
+    "FTEOffers": "22.78"
+  },
+  {
+    "Company": "TCS",
+    "CTC": "1",
+    "FTEOffers": "3.5"
+  },
+  {
+    "Company": "TVS Motors",
+    "CTC": "1",
+    "FTEOffers": "8"
+  },
+  {
+    "Company": "Titan (MAE)",
+    "CTC": "3",
+    "FTEOffers": "5"
+  },
+  {
+    "Company": "Twili0",
+    "CTC": "3",
+    "FTEOffers": "46"
+  },
+  {
+    "Company": "Technip Energies",
+    "CTC": "6",
+    "FTEOffers": "6.91"
+  },
+  {
+    "Company": "Uber",
+    "CTC": "3",
+    "FTEOffers": "38"
+  },
+  {
+    "Company": "UKG (Ultimate Kronos Group)",
+    "CTC": "6",
+    "FTEOffers": "15.5"
+  },
+  {
+    "Company": "Urban Company",
+    "CTC": "2",
+    "FTEOffers": "32"
+  },
+  {
+    "Company": "Visa",
+    "CTC": "14",
+    "FTEOffers": "28.54"
+  },
+  {
+    "Company": "Walmart",
+    "CTC": "8",
+    "FTEOffers": "25.67"
+  },
+  {
+    "Company": "Wells Fargo",
+    "CTC": "33",
+    "FTEOffers": "24"
+  },
+  {
+    "Company": "Western Digital",
+    "CTC": "2",
+    "FTEOffers": "20.5"
+  },
+  {
+    "Company": "Wooqer",
+    "CTC": "1",
+    "FTEOffers": "15"
+  },
+  {
+    "Company": "Zomato",
+    "CTC": "1",
+    "FTEOffers": "20"
+  }
+]
