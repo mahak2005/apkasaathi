@@ -1,0 +1,139 @@
+[
+  {
+    "id": "watchlist-core-tech",
+    "name": "AI & Core Tech Leaders",
+    "description": "High-conviction artificial intelligence, cloud, and semiconductor leaders",
+    "createdAt": "2026-08-21T11:09:09.416Z",
+    "updatedAt": "2026-09-04T08:09:09.430Z",
+    "version": 1,
+    "items": [
+      {
+        "symbol": "NVDA",
+        "addedAt": "2026-08-21T11:09:09.431Z",
+        "targetBuyPrice": 110,
+        "targetSellPrice": 145,
+        "notes": "Watching Blackwell GPU rack deployment cadence and datacenter backlog.",
+        "tags": [
+          "AI",
+          "Semis",
+          "MegaCap"
+        ]
+      },
+      {
+        "symbol": "AAPL",
+        "addedAt": "2026-08-23T11:09:09.431Z",
+        "targetBuyPrice": 215,
+        "targetSellPrice": 250,
+        "notes": "iPhone 16 upgrade cycle and Apple Intelligence monetization rollout.",
+        "tags": [
+          "Hardware",
+          "Services"
+        ]
+      },
+      {
+        "symbol": "MSFT",
+        "addedAt": "2026-08-25T11:09:09.431Z",
+        "targetBuyPrice": 400,
+        "targetSellPrice": 470,
+        "notes": "Azure cloud growth rate vs capex spend guidance.",
+        "tags": [
+          "Cloud",
+          "Enterprise",
+          "AI"
+        ]
+      },
+      {
+        "symbol": "TSLA",
+        "addedAt": "2026-08-27T11:09:09.431Z",
+        "targetBuyPrice": 195,
+        "targetSellPrice": 260,
+        "notes": "Robotaxi regulatory approvals and automotive gross margins.",
+        "tags": [
+          "EV",
+          "Autonomy",
+          "High-Beta"
+        ]
+      },
+      {
+        "symbol": "GOOGL",
+        "addedAt": "2026-08-28T11:09:09.431Z",
+        "targetBuyPrice": 155,
+        "targetSellPrice": 190,
+        "notes": "Search ad revenue resilience and Gemini API developer ecosystem.",
+        "tags": [
+          "Search",
+          "AI",
+          "Cloud"
+        ]
+      },
+      {
+        "symbol": "PLTR",
+        "addedAt": "2026-08-30T11:09:09.431Z",
+        "targetBuyPrice": 28,
+        "targetSellPrice": 38,
+        "notes": "AIP bootcamps converting to large enterprise commercial contracts.",
+        "tags": [
+          "Software",
+          "Defense",
+          "AI"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "watchlist-macro-hedges",
+    "name": "Macro & Defensive Yield",
+    "description": "Indices, energy hedges, and financial institutions",
+    "createdAt": "2026-08-15T11:09:09.431Z",
+    "updatedAt": "2026-09-02T11:09:09.431Z",
+    "version": 1,
+    "items": [
+      {
+        "symbol": "SPY",
+        "addedAt": "2026-08-15T11:09:09.431Z",
+        "notes": "Broad market benchmark tracking S&P 500.",
+        "tags": [
+          "Index",
+          "Core"
+        ]
+      },
+      {
+        "symbol": "JPM",
+        "addedAt": "2026-08-20T11:09:09.431Z",
+        "targetBuyPrice": 200,
+        "targetSellPrice": 235,
+        "notes": "Net interest income trajectory in Fed rate-cut environment.",
+        "tags": [
+          "Financials",
+          "Yield"
+        ]
+      },
+      {
+        "symbol": "XOM",
+        "addedAt": "2026-08-20T11:09:09.431Z",
+        "notes": "Crude price hedge and Pioneer Natural Resources merger synergies.",
+        "tags": [
+          "Energy",
+          "Hedge"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "watchlist-1788520310881",
+    "name": "new market",
+    "description": "",
+    "createdAt": "2026-09-04T11:11:50.881Z",
+    "updatedAt": "2026-09-04T11:12:07.107Z",
+    "version": 2,
+    "items": [
+      {
+        "symbol": "NVDA",
+        "addedAt": "2026-09-04T11:12:07.107Z",
+        "targetBuyPrice": 0.9,
+        "notes": "",
+        "tags": []
+      }
+    ]
+  }
+]
