@@ -135,5 +135,23 @@
         "tags": []
       }
     ]
+  },
+  {
+    "id": "watchlist-1788522021738",
+    "name": "Finance",
+    "description": "",
+    "createdAt": "2026-09-04T11:40:21.738Z",
+    "updatedAt": "2026-09-04T11:41:06.834Z",
+    "version": 3,
+    "items": [
+      {
+        "symbol": "JPM",
+        "addedAt": "2026-09-04T11:40:42.140Z",
+        "targetBuyPrice": 120,
+        "targetSellPrice": 150,
+        "notes": "",
+        "tags": []
+      }
+    ]
   }
 ]
